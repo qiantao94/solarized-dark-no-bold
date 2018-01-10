@@ -2,8 +2,9 @@
     "name": "solarized-dark-no-bold",
     "displayName": "solarized-dark-no-bold",
     "description": "Solarized Dark theme without bold fonts",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "qiantao",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.19.0"
     },
@@ -18,5 +19,15 @@
                 "path": "./themes/Solarized Dark (no bold)-color-theme.json"
             }
         ]
-    }
+    },
+    "homepage": "https://github.com/bestTao/solarized-dark-no-bold",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bestTao/solarized-dark-no-bold.git"
+    },
+    "keywords": [
+        "solarized",
+        "solarized dark",
+        "no bold"
+    ]
 }
