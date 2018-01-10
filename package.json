@@ -1,0 +1,22 @@
+{
+    "name": "solarized-dark-no-bold",
+    "displayName": "solarized-dark-no-bold",
+    "description": "Solarized Dark theme without bold fonts",
+    "version": "0.0.1",
+    "publisher": "qiantao",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Dark (no bold)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Solarized Dark (no bold)-color-theme.json"
+            }
+        ]
+    }
+}
